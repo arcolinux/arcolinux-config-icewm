@@ -1,1 +1,1 @@
-# ArcoLinux-config for ICEWM
+# ArcoLinux-config for ICEWM  
